@@ -132,3 +132,4 @@
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | enjoyyoulife0                  | [76561199779349657](https://steamcommunity.com/profiles/76561199779349657/) | ✅           | 2024-09-15 05:24:35 |          |
 | ![](https://avatars.steamstatic.com/c89c199b6d15646881e37e50c79f3ff1cedc9ab2.jpg) | 执伞亦或执剑                         | [76561199264646869](https://steamcommunity.com/profiles/76561199264646869/) | ✅           | 2024-09-27 10:12:18 |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 54xglllli                      | [76561199382051394](https://steamcommunity.com/profiles/76561199382051394/) | ✅           | 2024-10-22 02:56:12 |          |
+| ![](https://avatars.steamstatic.com/cb9a95a08842f2422157523487ae965cc0bca9ae.jpg) | GuiZzckaゴジラ                    | [76561198365635809](https://steamcommunity.com/profiles/76561198365635809/) | ✅           | 2024-10-29 02:31:49 |          |
