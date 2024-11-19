@@ -135,3 +135,4 @@
 | ![](https://avatars.steamstatic.com/cb9a95a08842f2422157523487ae965cc0bca9ae.jpg) | GuiZzckaゴジラ                    | [76561198365635809](https://steamcommunity.com/profiles/76561198365635809/) | ✅           | 2024-10-29 02:31:49 |          |
 | ![](https://avatars.steamstatic.com/28e17f9846bf86bac2517ae3e106527594ea8728.jpg) | 濛                              | [76561198292405679](https://steamcommunity.com/profiles/76561198292405679/) | ✅           | 2024-11-09 08:37:32 |          |
 | ![](https://avatars.steamstatic.com/2425ae11b455be0901d438b1b7f2d3d435fbc50b.jpg) | Refrag                         | [76561199710061023](https://steamcommunity.com/profiles/76561199710061023/) | ✅           | 2024-11-13 09:36:00 |          |
+| ![](https://avatars.steamstatic.com/595d2ad457670dc5cfab0be628128246d76c31a7.jpg) | LLFLLFF                        | [76561198217186687](https://steamcommunity.com/profiles/76561198217186687/) | ✅           | 2024-11-18 07:56:34 |          |
