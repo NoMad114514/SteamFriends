@@ -18,7 +18,7 @@
 
 | Avatar                                                                            | Name                           | steamid                                                                     | is_friend   | BFD                 | Remark   |
 |:----------------------------------------------------------------------------------|:-------------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/04bba087c94e38fa25fda6320785323c34bb83e6.jpg) | 💗 Cat Seven  ❣                 | [76561198316703155](https://steamcommunity.com/profiles/76561198316703155/) | ✅           | 2022-12-26 05:58:37 |          |
+| ![](https://avatars.steamstatic.com/36d56da2fc222cee0500f0c669ea84a19103dee6.jpg) | 猫七                             | [76561198316703155](https://steamcommunity.com/profiles/76561198316703155/) | ✅           | 2022-12-26 05:58:37 |          |
 | ![](https://avatars.steamstatic.com/48df929a398cf158280984fcd903975f67b63355.jpg) | DunkP                          | [76561199116765847](https://steamcommunity.com/profiles/76561199116765847/) | ✅           | 2021-02-14 14:53:55 |          |
 | ![](https://avatars.steamstatic.com/d4095795c977fde8c5cf75c72a4249be061d3fda.jpg) | JAPANA                         | [76561198352555825](https://steamcommunity.com/profiles/76561198352555825/) | ✅           | 2021-06-05 05:40:53 |          |
 | ![](https://avatars.steamstatic.com/c6dd64a8c0cada75c6105078eceb4d021a54f5e0.jpg) | KIM [MCG] TH                   | [76561199157013877](https://steamcommunity.com/profiles/76561199157013877/) | ✅           | 2022-12-08 04:59:41 |          |
@@ -137,3 +137,4 @@
 | ![](https://avatars.steamstatic.com/2425ae11b455be0901d438b1b7f2d3d435fbc50b.jpg) | Refrag                         | [76561199710061023](https://steamcommunity.com/profiles/76561199710061023/) | ✅           | 2024-11-13 09:36:00 |          |
 | ![](https://avatars.steamstatic.com/595d2ad457670dc5cfab0be628128246d76c31a7.jpg) | LLFLLFF                        | [76561198217186687](https://steamcommunity.com/profiles/76561198217186687/) | ✅           | 2024-11-18 07:56:34 |          |
 | ![](https://avatars.steamstatic.com/f850cc235ac9f6fd155cc957ceb5c6847686aeac.jpg) | 夏泽兰                            | [76561199439438640](https://steamcommunity.com/profiles/76561199439438640/) | ✅           | 2024-12-02 14:40:23 |          |
+| ![](https://avatars.steamstatic.com/b6ccb3bc8e5cdfd2c67da6aed96e98116ecee454.jpg) | 送礼送温暖                          | [76561199022705762](https://steamcommunity.com/profiles/76561199022705762/) | ✅           | 2024-12-04 00:22:40 |          |
