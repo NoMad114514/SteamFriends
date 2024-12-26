@@ -142,3 +142,4 @@
 | ![](https://avatars.steamstatic.com/fd42279c609a09d1f6cc08084081c6d64cc8c945.jpg) | R4af                           | [76561199806884609](https://steamcommunity.com/profiles/76561199806884609/) | ✅           | 2024-12-08 08:55:51 |          |
 | ![](https://avatars.steamstatic.com/064bb419c775f6820f2ef3a0162fa0b73d0d797c.jpg) | Uslanmaz'                      | [76561199552755020](https://steamcommunity.com/profiles/76561199552755020/) | ✅           | 2024-12-09 04:46:46 |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | zt4u53d4a8g3                   | [76561199809650692](https://steamcommunity.com/profiles/76561199809650692/) | ✅           | 2024-12-18 02:03:27 |          |
+| ![](https://avatars.steamstatic.com/b714cd941d3dcfb6368f982f0626725fa5c93f1c.jpg) | BlackShark[UA21]               | [76561198995453426](https://steamcommunity.com/profiles/76561198995453426/) | ✅           | 2024-12-25 16:39:10 |          |
